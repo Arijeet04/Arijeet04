@@ -94,4 +94,8 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Arijeet04&theme=gotham&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Arijeet04/Arijeet04/output/snake.svg" alt="Snake animation" />
+
 *************
