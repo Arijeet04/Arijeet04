@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - 👋 Hey there! I'm Arijeet, a passionate React developer dedicated to crafting elegant solutions in the digital realm. With a background in  I specialize in leveraging the power of React to build seamless user experiences. 
+### - 👋 Hey there! I'm Arijeet, a passionate React developer 😎
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
