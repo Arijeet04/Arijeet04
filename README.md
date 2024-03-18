@@ -96,6 +96,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=Arijeet04&&show_icons=true&theme=radical"/>
   </a>
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Arijeet04&theme=gotham&hide_border=true)](https://git.io/streak-stats)
   </p>
 
 *************
