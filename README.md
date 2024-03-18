@@ -42,7 +42,7 @@
 </br>
 <img src="https://github.com/Arijeet04/Arijeet04/blob/main/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
 <img src="https://github.com/Arijeet04/Arijeet04/blob/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-<img src="https://github.com/Arijeet04/Arijeet04/blob/main/assets/icons/aws.png" alt="aws" width="240" hight="50">
+<img src="https://github.com/Arijeet04/Arijeet04/blob/main/assets/icons/aws.png" alt="aws" width="100" hight="50">
 </br>
 <img src="https://github.com/Arijeet04/Arijeet04/blob/main/assets/icons/pc.png" alt="pc" width="100" hight="50">
 <img src="https://github.com/Arijeet04/Arijeet04/blob/main/assets/icons/playstation%403x.png" alt="playstation" width="150" hight="50">
