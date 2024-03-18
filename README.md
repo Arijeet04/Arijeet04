@@ -40,12 +40,12 @@
 <img src="https://github.com/Arijeet04/Arijeet04/blob/main/assets/icons/ai.png" alt="AI" width="90" hight="50">
 <img src="https://github.com/Arijeet04/Arijeet04/blob/main/assets/icons/bash.png" alt="bash" width="100" hight="50">
 </br>
-<img src="https://github.com/Arijeet04/Arijeet04/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/Arijeet04/Arijeet04/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+<img src="https://github.com/Arijeet04/Arijeet04/blob/main/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
+<img src="https://github.com/Arijeet04/Arijeet04/blob/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+<img src="https://github.com/Arijeet04/Arijeet04/blob/main/assets/icons/aws.png" alt="aws" width="240" hight="50">
 </br>
-<img src="https://github.com/Arijeet04/Arijeet04/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Arijeet04/Arijeet04/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Arijeet04/Arijeet04/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+<img src="https://github.com/Arijeet04/Arijeet04/blob/main/assets/icons/pc.png" alt="pc" width="100" hight="50">
+<img src="https://github.com/Arijeet04/Arijeet04/blob/main/assets/icons/playstation%403x.png" alt="playstation" width="150" hight="50">
 </p>
 </br>
 </br>
