@@ -91,13 +91,10 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 
 <p align="left" >  
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Arijeet04&theme=gotham&hide_border=true" alt="GitHub Streak" />
-</a>
- 
-<p align="right" >  
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 </p>
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Arijeet04&theme=gotham&hide_border=true" alt="GitHub Streak" />
+</a>
 
 <br clear="both">
 
