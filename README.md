@@ -1,7 +1,7 @@
 # Konichiwa 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Arijeet04/Arijeet04/blob/main/assets/208593.gif">
 </div>
 
 </br>
@@ -13,7 +13,7 @@
 
 ### - 👋 Hey there! I'm Arijeet, a passionate React developer 😎
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Arijeet04/Arijeet04/blob/main/assets/1936.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
@@ -90,13 +90,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 
-
-
-<p align="right" >  
-  <a href="https://github.com/Arijeet04/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Arijeet04&&show_icons=true&theme=radical"/>
-  </a>
-</p>
 <p align="left" >  
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Arijeet04&theme=gotham&hide_border=true" alt="GitHub Streak" /></a>
 </p>
