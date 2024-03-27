@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Analytics and MERN Stack.<br>👯 I’m looking to collaborate on projects.<br>🌱 I’m currently learning MERN Stack.<br>💬 Ask me about AI, NLP, Web Development.<br>⚡ Fun fact  "People Blink Less When They Use Computers".
+🔭 I’m currently working on React JS and NEXT JS.<br>👯 I’m looking to collaborate on projects.<br>🌱 I’m currently learning MERN Stack.<br>💬 Ask me about AI,Web Development.<br>⚡ Fun fact  "People Blink Less When They Use Computers".
 
 
 ## 🌐 Socials:
