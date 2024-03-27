@@ -1,103 +1,27 @@
-# Konichiwa 👋
-
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Arijeet04/Arijeet04/blob/main/assets/208593.gif">
-</div>
-
-</br>
-</br>
-</br>
+# 💫 About Me:
+🔭 I’m currently working on Data Analytics and MERN Stack.<br>👯 I’m looking to collaborate on projects.<br>🌱 I’m currently learning MERN Stack.<br>💬 Ask me about AI, NLP, Web Development.<br>⚡ Fun fact  "People Blink Less When They Use Computers".
 
 
-# About ME 💬 :
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arijeetdc4/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/ArijeetDasChow3) 
 
-### - 👋 Hey there! I'm Arijeet, a passionate React developer 😎
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Arijeet04&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Arijeet04&theme=solarized-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arijeet04&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Arijeet04/Arijeet04/blob/main/assets/1936.gif">
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Arijeet04&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
 
-### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ Generative Adversarial Networks
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Watching Football
-</br>
-</br>
-</br>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Arijeet04&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Arijeet04&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-# Languages & Tools 👨‍💻 🛠:
-</br>
-
-<p align="center">
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Arijeet04/Arijeet04/blob/main/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Arijeet04/Arijeet04/blob/main/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/Arijeet04/Arijeet04/blob/main/assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/Arijeet04/Arijeet04/blob/main/assets/icons/bash.png" alt="bash" width="100" hight="50">
-</br>
-<img src="https://github.com/Arijeet04/Arijeet04/blob/main/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/Arijeet04/Arijeet04/blob/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-<img src="https://github.com/Arijeet04/Arijeet04/blob/main/assets/icons/aws.png" alt="aws" width="100" hight="50">
-</br>
-<img src="https://github.com/Arijeet04/Arijeet04/blob/main/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Arijeet04/Arijeet04/blob/main/assets/icons/playstation%403x.png" alt="playstation" width="150" hight="50">
-</p>
-</br>
-</br>
-</br>
-
-
-
-# Contact Me :
-
-<p>
- </br>
-
-
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Arijeet04/Arijeet04/blob/main/assets/93195.gif">
-
-
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-
-<a href="mailto:arijeet444@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Arijeet04/Arijeet04/blob/main/assets/icons/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/arijeetdc4/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Arijeet04/Arijeet04/blob/main/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
-</a>
-<a href="https://www.reddit.com/user/SpreadSignal3715/>
-  <img align="left" alt="Reddit" width="130" hight="100" src="https://github.com/Arijeet04/Arijeet04/blob/main/assets/icons/reddit.png" />
-</a>
-<a href="https://steamcommunity.com/profiles/76561199369279291/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Arijeet04/Arijeet04/blob/main/assets/icons/steam.png" />
-</a>
- </p>
- 
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-<p align="left" >  
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-</p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Arijeet04&theme=gotham&hide_border=true" alt="GitHub Streak" />
-</a>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Arijeet04/Arijeet04/output/snake.svg" alt="Snake animation" />
-
-*************
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
