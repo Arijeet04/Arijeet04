@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on React JS and NEXT JS.<br>👯 I’m looking to collaborate on projects.<br>🌱 I’m currently learning MERN Stack.<br>💬 Ask me about AI,NLP,Web Development.<br>⚡ Fun fact  "People Blink Less When They Use Computers".
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arijeetdc4/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/ArijeetDasChow3) 
 
